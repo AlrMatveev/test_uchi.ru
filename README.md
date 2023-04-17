@@ -1,5 +1,8 @@
 # interview-calendar
 
+##Демо
+https://alrmatveev.github.io/test_uchi.ru/
+
 ## Веб приложение с недельным календарем
 Нужно реализовать статичное веб приложение (SPA) используя create-react-app, React, styled-components и выложить его на Heroku.
 
